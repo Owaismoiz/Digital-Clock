@@ -1,0 +1,22 @@
+body{
+    
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+h1{
+    color: white;
+    padding-top: 30px;
+    text-align: center;
+}
+.parent{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    padding: 10px 30px;
+    border-radius: 5px;
+    border: 3px solid black;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+}
